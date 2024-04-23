@@ -90,9 +90,9 @@ for sentence in sentences:
 
 
 <H3>Output</H3>
-![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out611.png)
-![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out612.png)
-![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out613.png)
-![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out614.png)
+![output](https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out611.png)
+![output](https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out612.png)
+![output](https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out613.png)
+![output](https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out614.png)
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
