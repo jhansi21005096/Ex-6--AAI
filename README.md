@@ -3,7 +3,8 @@
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
-<H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
+<H3>Aim:
+ To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
@@ -89,6 +90,9 @@ for sentence in sentences:
 
 
 <H3>Output</H3>
-![output()
+![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out611.png)
+![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out612.png)
+![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out613.png)
+![output(https://github.com/jhansi21005096/Ex-6--AAI/blob/main/out614.png)
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
