@@ -17,6 +17,8 @@ Step 5:Iterate through each word in the tokenized text.<br>
 •	Extract synonyms and antonyms using lemma.name() and lemma.antonyms()[0].name() respectively.<br>
 •	Print the unique sets of synonyms and antonyms.
 <H3>Program:</H3>
+
+
 ```
 #importing packages
 ! pip install nltk
@@ -27,12 +29,16 @@ nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
 ```
+
+
 ```
 #reading content from file
 f = open("/content/samplefile.txt", "r")
 sentences = f.readlines()
 f.close()
 ```
+
+
 ```
 verbs = [[] for _ in sentences]
 i=0
@@ -55,6 +61,8 @@ for sentence in sentences:
   i+=1
   print("\n\n")
 ```
+
+
 ```
 # Identify synonyms and antonyms for each word
 print("Synonyms and Antonymns for verbs in each sentence:\n")
@@ -80,6 +88,7 @@ for sentence in sentences:
   print("\n\n")
   i+=1
 ```
+
 
 <H3>Output</H3>
 ![output()
